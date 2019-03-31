@@ -1,2 +1,2 @@
 # azure-github-repo
-Azure project with github repository.
+Template for creating a GitHub repository for an Azure project.
